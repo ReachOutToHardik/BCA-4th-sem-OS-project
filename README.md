@@ -1,4 +1,4 @@
-# 📂 Auto-Organizer: Shell Script Project
+# 📂 Auto-Organizer: OS Project
 
 * **Name:** Hardik Joshi
 * **College:** Lachoo Memorial College of Science & Technology, Jodhpur
